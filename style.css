@@ -23,7 +23,7 @@
   .x {
     position: relative;
     background-color: #9f9f9f;
-    border: 2px solid black;
+    border: 1px solid black;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -34,7 +34,7 @@
     width: 100px;
     padding: 5px;
     margin: 0px;
-    border: 2px solid black;
+    border: 1px solid black;
     text-align: center;
     font-size: 125%;
     font-weight: bold;
